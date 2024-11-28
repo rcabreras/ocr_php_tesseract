@@ -1,0 +1,12 @@
+{
+    "name": "raulcabrera/www",
+    "authors": [
+        {
+            "name": "rcabreras",
+            "email": "raul.csa@gmail.com"
+        }
+    ],
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.13"
+    }
+}
